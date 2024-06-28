@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Archit Pandey</h1>
 <h3 align="center">A tech fanatic from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2h0NDE2M2hhN3BtNWc3a2VodnNxNTE5c2Y1YXlhZ3hiM3Ztd2tnMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
